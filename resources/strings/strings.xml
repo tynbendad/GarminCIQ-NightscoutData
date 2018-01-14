@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">NightscoutData</string>
+    <string id="nsurl">Nightscout site URL</string>
+    <string id="nsurlPrompt">e.g., https://yoursite.herokuapp.com</string>
+</strings>

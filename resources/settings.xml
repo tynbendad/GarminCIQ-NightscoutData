@@ -1,0 +1,4 @@
+<settings>
+    <setting propertyKey="@Properties.nsurl" title="@Strings.nsurl" prompt="@Strings.nsurlPrompt">
+        <settingConfig type="url" required="true" /></setting>
+</settings>
